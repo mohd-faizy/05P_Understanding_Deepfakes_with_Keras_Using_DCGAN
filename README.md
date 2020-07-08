@@ -1,7 +1,7 @@
 # Understanding-Deepfakes-with-Keras-Using-DCGAN
 Understanding Deepfakes with Keras
 
-<img src = 'https://miro.medium.com/max/646/1*N7J314AzyF_RlteW2xqPuA.png'>
+<img src = 'https://deeplearn.org/arxiv_files/1902.01824v1/flame_full_framework.png'>
 
 ## Task 1: Introduction
 
