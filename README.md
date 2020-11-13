@@ -1,7 +1,7 @@
 # Understanding-Deepfakes-with-Keras-Using-DCGAN
 Understanding Deepfakes with Keras
 
-<img src = 'https://deeplearn.org/arxiv_files/1902.01824v1/flame_full_framework.png'>
+<img src = 'https://zhangruochi.com/Understanding-Deepfakes-with-Keras/2020/07/30/DCGAN.png'>
 
 ## Task 1: Introduction
 
@@ -27,6 +27,8 @@ Understanding Deepfakes with Keras
 ## Task 5: Generative Adversarial Network (GAN)
 
     - Connecting the Generator and Discriminator to create a Generative Adversarial Network (GAN)
+    
+ <img src='https://courses.csail.mit.edu/18.337/2017/projects/morales_manuel/img/dcgan.png'>
 
 ## Task 6: Training the GAN
 
