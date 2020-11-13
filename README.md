@@ -3,6 +3,23 @@
 
 <img src = 'https://zhangruochi.com/Understanding-Deepfakes-with-Keras/2020/07/30/DCGAN.png'>
 
+## __Dataset__
+__MNIST__(Modified National Institute of Standards and Technology database)
+
+```python
+
+# Downloding the dataset
+(x_train, y_train), (x_test, y_test) = tfutils.datasets.mnist.load_data(one_hot=False)
+
+# Loading the Subsets that belong to the class zero 
+# So the x_train, x_test have the images of only '0'
+x_train = tfutils.datasets.mnist.load_subset([0], x_train, y_train)
+x_test = tfutils.datasets.mnist.load_subset([0], x_test, y_test)
+
+# Creating the Combined set Using the NumPy Concatenate function
+x = np.concatenate([x_train, x_test], axis=0)
+```
+
 ## :heavy_check_mark: Objectives
 
 :one: Implement a Deep Convolutional Generative Adversarial Network (DCGAN).
