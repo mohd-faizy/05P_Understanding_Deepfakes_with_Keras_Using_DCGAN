@@ -1,7 +1,16 @@
-# Understanding-Deepfakes-with-Keras-Using-DCGAN
-Understanding Deepfakes with Keras
+# __Understanding-Deepfakes-with-Keras-Using-DCGAN__
+
 
 <img src = 'https://zhangruochi.com/Understanding-Deepfakes-with-Keras/2020/07/30/DCGAN.png'>
+
+## :heavy_check_mark: Objectives
+
+:one: Implement a Deep Convolutional Generative Adversarial Network (DCGAN).
+    
+:two: Train a DCGAN to synthesize realistic looking images.
+
+By the end of this course, you will understand how to implement DCGANs, and how to train them to generate realistic synthetic images.
+
 
 ## Task 1: Introduction
 
@@ -34,4 +43,26 @@ Understanding Deepfakes with Keras
 
     - Creating a training loop.
     - Creating a dynamic plot that displays generated images after each epoch.
+    
+ --- 
+
+### Connect with me:
+
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][StackExchange AI]
+
+[twitter]: https://twitter.com/F4izy
+[linkedin]: https://www.linkedin.com/in/faizy-mohd-836573122/
+[StackExchange AI]: https://ai.stackexchange.com/users/36737/cypher
+
+
+---
+
+
+![Faizy's github stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact)](https://github.com/mohd-faizy/github-readme-stats)
 
